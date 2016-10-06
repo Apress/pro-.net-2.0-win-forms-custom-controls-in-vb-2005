@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MaskedComboBoxControl", "MaskedComboBoxControl.vbproj", "{367ECDB9-BFF4-4D0A-9768-A3A55733744B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367ECDB9-BFF4-4D0A-9768-A3A55733744B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367ECDB9-BFF4-4D0A-9768-A3A55733744B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367ECDB9-BFF4-4D0A-9768-A3A55733744B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367ECDB9-BFF4-4D0A-9768-A3A55733744B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

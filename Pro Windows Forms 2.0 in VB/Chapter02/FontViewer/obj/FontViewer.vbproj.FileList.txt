@@ -1,0 +1,10 @@
+bin\Debug\FontViewer.exe
+bin\Debug\FontViewer.pdb
+bin\Debug\FontViewer.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FontViewer.Form1.resources
+obj\Debug\FontViewer.Resources.resources
+obj\Debug\FontViewer.vbproj.GenerateResource.Cache
+obj\Debug\FontViewer.exe
+obj\Debug\FontViewer.xml
+obj\Debug\FontViewer.pdb

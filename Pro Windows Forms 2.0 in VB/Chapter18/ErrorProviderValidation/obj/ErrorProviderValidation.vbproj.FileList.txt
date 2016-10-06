@@ -1,0 +1,3 @@
+obj\Debug\ErrorProviderValidation.exe
+obj\Debug\ErrorProviderValidation.xml
+obj\Debug\ErrorProviderValidation.pdb

@@ -1,0 +1,13 @@
+bin\Debug\HitTesting.exe
+bin\Debug\HitTesting.pdb
+bin\Debug\HitTesting.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\HitTesting.Menu.resources
+obj\Debug\HitTesting.Resources.resources
+obj\Debug\HitTesting.NonOptimizedSquares.resources
+obj\Debug\HitTesting.vbproj.GenerateResource.Cache
+obj\Debug\HitTesting.exe
+obj\Debug\HitTesting.xml
+obj\Debug\HitTesting.pdb
+obj\Debug\HitTesting.OptimizedSquares.resources
+obj\Debug\HitTesting.GraphicsPathHit.resources

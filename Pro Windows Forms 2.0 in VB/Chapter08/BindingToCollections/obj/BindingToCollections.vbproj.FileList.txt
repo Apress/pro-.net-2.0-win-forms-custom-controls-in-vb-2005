@@ -1,0 +1,15 @@
+bin\Debug\BindingToCollections.exe.config
+bin\Debug\BindingToCollections.exe
+bin\Debug\BindingToCollections.pdb
+bin\Debug\BindingToCollections.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BindingToCollections.Menu.resources
+obj\Debug\BindingToCollections.Resources.resources
+obj\Debug\BindingToCollections.SimpleListBinding.resources
+obj\Debug\BindingToCollections.vbproj.GenerateResource.Cache
+obj\Debug\BindingToCollections.exe
+obj\Debug\BindingToCollections.xml
+obj\Debug\BindingToCollections.pdb
+obj\Debug\BindingToCollections.MultipleControlBinding.resources
+obj\Debug\BindingToCollections.GridBinding.resources
+obj\Debug\BindingToCollections.EditableBinding.resources

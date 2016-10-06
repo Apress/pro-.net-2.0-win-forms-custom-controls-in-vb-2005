@@ -1,0 +1,15 @@
+bin\Debug\AgentTryout.exe
+bin\Debug\AgentTryout.pdb
+bin\Debug\AgentTryout.xml
+bin\Debug\Interop.AgentObjects.dll
+bin\Debug\AxInterop.AgentObjects.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Interop.AgentObjects.dll
+obj\Debug\AxInterop.AgentObjects.dll
+obj\Debug\AgentTryout.vbproj.ResolveComReference.cache
+obj\Debug\AgentTryout.Form1.resources
+obj\Debug\AgentTryout.Resources.resources
+obj\Debug\AgentTryout.vbproj.GenerateResource.Cache
+obj\Debug\AgentTryout.exe
+obj\Debug\AgentTryout.xml
+obj\Debug\AgentTryout.pdb

@@ -1,0 +1,11 @@
+obj\Debug\RichTextBoxTest.exe
+obj\Debug\RichTextBoxTest.xml
+obj\Debug\RichTextBoxTest.pdb
+bin\Debug\planet.JPG
+bin\Debug\RichTextBoxTest.exe
+bin\Debug\RichTextBoxTest.pdb
+bin\Debug\RichTextBoxTest.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RichTextBoxTest.Form1.resources
+obj\Debug\RichTextBoxTest.Resources.resources
+obj\Debug\RichTextBoxTest.vbproj.GenerateResource.Cache

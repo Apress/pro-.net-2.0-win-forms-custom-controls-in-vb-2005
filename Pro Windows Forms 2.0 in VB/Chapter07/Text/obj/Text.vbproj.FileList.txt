@@ -1,0 +1,3 @@
+obj\Debug\Text.exe
+obj\Debug\Text.xml
+obj\Debug\Text.pdb

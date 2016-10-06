@@ -1,0 +1,10 @@
+bin\Debug\PopUpHelp.exe
+bin\Debug\PopUpHelp.pdb
+bin\Debug\PopUpHelp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PopUpHelp.Form1.resources
+obj\Debug\PopUpHelp.Resources.resources
+obj\Debug\PopUpHelp.vbproj.GenerateResource.Cache
+obj\Debug\PopUpHelp.exe
+obj\Debug\PopUpHelp.xml
+obj\Debug\PopUpHelp.pdb

@@ -1,0 +1,14 @@
+bin\Release\ContainerControls.dll
+bin\Release\ContainerControls.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\ContainerControls.Test.resources
+obj\Release\ContainerControls.vbproj.GenerateResource.Cache
+obj\Release\ContainerControls.dll
+obj\Release\ContainerControls.pdb
+bin\Debug\ContainerControls.exe
+bin\Debug\ContainerControls.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContainerControls.Test.resources
+obj\Debug\ContainerControls.vbproj.GenerateResource.Cache
+obj\Debug\ContainerControls.exe
+obj\Debug\ContainerControls.pdb

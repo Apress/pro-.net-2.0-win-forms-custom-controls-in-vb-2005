@@ -1,0 +1,3 @@
+obj\Debug\ControlMedley.exe
+obj\Debug\ControlMedley.xml
+obj\Debug\ControlMedley.pdb

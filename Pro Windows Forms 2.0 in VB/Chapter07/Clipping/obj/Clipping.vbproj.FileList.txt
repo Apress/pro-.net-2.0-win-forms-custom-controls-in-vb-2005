@@ -1,0 +1,3 @@
+obj\Debug\Clipping.exe
+obj\Debug\Clipping.xml
+obj\Debug\Clipping.pdb

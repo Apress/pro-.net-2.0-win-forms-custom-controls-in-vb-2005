@@ -1,0 +1,3 @@
+obj\Debug\Tooltips.exe
+obj\Debug\Tooltips.xml
+obj\Debug\Tooltips.pdb

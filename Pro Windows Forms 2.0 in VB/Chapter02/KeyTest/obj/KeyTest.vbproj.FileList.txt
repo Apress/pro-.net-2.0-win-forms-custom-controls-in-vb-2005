@@ -1,0 +1,3 @@
+obj\Debug\KeyTest.exe
+obj\Debug\KeyTest.xml
+obj\Debug\KeyTest.pdb

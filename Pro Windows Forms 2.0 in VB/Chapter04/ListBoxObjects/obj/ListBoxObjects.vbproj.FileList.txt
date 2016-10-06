@@ -1,0 +1,3 @@
+obj\Debug\ListBoxObjects.exe
+obj\Debug\ListBoxObjects.xml
+obj\Debug\ListBoxObjects.pdb

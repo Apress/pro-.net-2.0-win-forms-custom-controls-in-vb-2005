@@ -1,0 +1,3 @@
+obj\Debug\DrawingShapes.exe
+obj\Debug\DrawingShapes.xml
+obj\Debug\DrawingShapes.pdb

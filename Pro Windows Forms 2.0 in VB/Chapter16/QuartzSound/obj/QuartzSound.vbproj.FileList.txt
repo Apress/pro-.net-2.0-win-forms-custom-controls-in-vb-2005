@@ -1,0 +1,11 @@
+bin\Debug\QuartzSound.exe
+bin\Debug\QuartzSound.pdb
+bin\Debug\QuartzSound.xml
+bin\Debug\Interop.QuartzTypeLib.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QuartzSound.MediaPlayer.resources
+obj\Debug\QuartzSound.Resources.resources
+obj\Debug\QuartzSound.vbproj.GenerateResource.Cache
+obj\Debug\QuartzSound.exe
+obj\Debug\QuartzSound.xml
+obj\Debug\QuartzSound.pdb

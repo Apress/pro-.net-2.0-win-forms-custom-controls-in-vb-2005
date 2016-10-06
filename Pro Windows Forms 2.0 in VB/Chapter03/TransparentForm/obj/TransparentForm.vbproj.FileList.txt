@@ -1,0 +1,12 @@
+bin\Debug\TransparentForm.exe
+bin\Debug\TransparentForm.pdb
+bin\Debug\TransparentForm.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TransparentForm.Holes.resources
+obj\Debug\TransparentForm.Menu.resources
+obj\Debug\TransparentForm.Resources.resources
+obj\Debug\TransparentForm.Transparent.resources
+obj\Debug\TransparentForm.vbproj.GenerateResource.Cache
+obj\Debug\TransparentForm.exe
+obj\Debug\TransparentForm.xml
+obj\Debug\TransparentForm.pdb

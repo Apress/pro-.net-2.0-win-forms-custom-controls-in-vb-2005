@@ -1,0 +1,11 @@
+bin\Debug\ListViewVirtualization.exe.config
+obj\Debug\ListViewVirtualization.exe
+obj\Debug\ListViewVirtualization.xml
+obj\Debug\ListViewVirtualization.pdb
+bin\Debug\ListViewVirtualization.exe
+bin\Debug\ListViewVirtualization.pdb
+bin\Debug\ListViewVirtualization.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ListViewVirtualization.Form1.resources
+obj\Debug\ListViewVirtualization.Resources.resources
+obj\Debug\ListViewVirtualization.vbproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+obj\Debug\MaskedComboBoxControl.exe
+obj\Debug\MaskedComboBoxControl.xml
+obj\Debug\MaskedComboBoxControl.pdb

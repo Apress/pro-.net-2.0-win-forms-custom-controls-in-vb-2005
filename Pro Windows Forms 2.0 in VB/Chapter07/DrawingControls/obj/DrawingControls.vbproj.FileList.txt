@@ -1,0 +1,13 @@
+bin\Debug\DrawingControls.exe
+bin\Debug\DrawingControls.pdb
+bin\Debug\DrawingControls.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DrawingControls.ControlPaintTest.resources
+obj\Debug\DrawingControls.ControlRenderer.resources
+obj\Debug\DrawingControls.Menu.resources
+obj\Debug\DrawingControls.Resources.resources
+obj\Debug\DrawingControls.SimpleStyleRenderer.resources
+obj\Debug\DrawingControls.vbproj.GenerateResource.Cache
+obj\Debug\DrawingControls.exe
+obj\Debug\DrawingControls.xml
+obj\Debug\DrawingControls.pdb

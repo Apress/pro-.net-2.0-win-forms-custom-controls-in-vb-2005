@@ -1,0 +1,14 @@
+bin\Debug\ContextSensitiveHelp2.exe
+bin\Debug\ContextSensitiveHelp2.pdb
+bin\Debug\ContextSensitiveHelp2.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContextSensitiveHelp2.ControlBased.resources
+obj\Debug\ContextSensitiveHelp2.Form1.resources
+obj\Debug\ContextSensitiveHelp2.FormBased.resources
+obj\Debug\ContextSensitiveHelp2.FrameBased.resources
+obj\Debug\ContextSensitiveHelp2.Resources.resources
+obj\Debug\ContextSensitiveHelp2.vbproj.GenerateResource.Cache
+obj\Debug\ContextSensitiveHelp2.exe
+obj\Debug\ContextSensitiveHelp2.xml
+obj\Debug\ContextSensitiveHelp2.pdb
+bin\Debug\sample.chm

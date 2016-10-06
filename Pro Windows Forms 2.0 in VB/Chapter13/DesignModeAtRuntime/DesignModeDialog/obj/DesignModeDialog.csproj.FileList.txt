@@ -1,0 +1,12 @@
+.\bin\Release\DesignModeDialog.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Microsoft.Samples.Properties.Resources.resources
+obj\Release\DesignModeDialog.csproj.GenerateResource.Cache
+obj\Release\DesignModeDialog.dll
+.\bin\Debug\DesignModeDialog.dll
+.\bin\Debug\DesignModeDialog.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Microsoft.Samples.Properties.Resources.resources
+obj\Debug\DesignModeDialog.csproj.GenerateResource.Cache
+obj\Debug\DesignModeDialog.dll
+obj\Debug\DesignModeDialog.pdb

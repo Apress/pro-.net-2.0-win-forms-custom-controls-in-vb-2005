@@ -1,0 +1,3 @@
+obj\Debug\BindingUnusualProperties.exe
+obj\Debug\BindingUnusualProperties.xml
+obj\Debug\BindingUnusualProperties.pdb

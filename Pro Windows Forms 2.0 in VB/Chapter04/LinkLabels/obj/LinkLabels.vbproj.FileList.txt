@@ -1,0 +1,3 @@
+obj\Debug\LinkLabels.exe
+obj\Debug\LinkLabels.xml
+obj\Debug\LinkLabels.pdb

@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Docking.DockTest.resources
+obj\Debug\Docking.Resources.resources
+obj\Debug\Docking.vbproj.GenerateResource.Cache
+bin\Debug\Docking.exe
+bin\Debug\Docking.pdb
+bin\Debug\Docking.xml
+obj\Debug\Docking.exe
+obj\Debug\Docking.xml
+obj\Debug\Docking.pdb

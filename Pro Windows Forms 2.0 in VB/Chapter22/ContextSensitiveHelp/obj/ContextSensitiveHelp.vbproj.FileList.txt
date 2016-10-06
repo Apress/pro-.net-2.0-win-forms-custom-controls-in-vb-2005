@@ -1,0 +1,11 @@
+bin\Debug\HelpTest.chm
+bin\Debug\ContextSensitiveHelp.exe
+bin\Debug\ContextSensitiveHelp.pdb
+bin\Debug\ContextSensitiveHelp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContextSensitiveHelp.Form1.resources
+obj\Debug\ContextSensitiveHelp.Resources.resources
+obj\Debug\ContextSensitiveHelp.vbproj.GenerateResource.Cache
+obj\Debug\ContextSensitiveHelp.exe
+obj\Debug\ContextSensitiveHelp.xml
+obj\Debug\ContextSensitiveHelp.pdb

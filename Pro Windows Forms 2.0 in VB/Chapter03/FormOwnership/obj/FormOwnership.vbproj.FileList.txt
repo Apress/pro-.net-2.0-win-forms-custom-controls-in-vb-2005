@@ -1,0 +1,3 @@
+obj\Debug\FormOwnership.exe
+obj\Debug\FormOwnership.xml
+obj\Debug\FormOwnership.pdb

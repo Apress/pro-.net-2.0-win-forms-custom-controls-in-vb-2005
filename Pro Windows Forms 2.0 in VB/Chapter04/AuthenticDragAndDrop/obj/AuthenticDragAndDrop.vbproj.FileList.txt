@@ -1,0 +1,3 @@
+obj\Debug\AuthenticDragAndDrop.exe
+obj\Debug\AuthenticDragAndDrop.xml
+obj\Debug\AuthenticDragAndDrop.pdb

@@ -1,0 +1,3 @@
+obj\Debug\TreeViewDragAndDrop.exe
+obj\Debug\TreeViewDragAndDrop.xml
+obj\Debug\TreeViewDragAndDrop.pdb

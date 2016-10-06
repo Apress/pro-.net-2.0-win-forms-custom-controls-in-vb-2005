@@ -1,0 +1,3 @@
+obj\Debug\ScreenCapture.exe
+obj\Debug\ScreenCapture.xml
+obj\Debug\ScreenCapture.pdb

@@ -1,0 +1,12 @@
+bin\Debug\address.htm
+bin\Debug\blockquote.htm
+bin\Debug\SplitWindow.exe
+bin\Debug\SplitWindow.pdb
+bin\Debug\SplitWindow.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SplitWindow.Form1.resources
+obj\Debug\SplitWindow.Resources.resources
+obj\Debug\SplitWindow.vbproj.GenerateResource.Cache
+obj\Debug\SplitWindow.exe
+obj\Debug\SplitWindow.xml
+obj\Debug\SplitWindow.pdb

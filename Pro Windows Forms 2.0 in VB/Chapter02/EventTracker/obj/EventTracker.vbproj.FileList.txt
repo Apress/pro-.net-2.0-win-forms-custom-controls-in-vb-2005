@@ -1,0 +1,3 @@
+obj\Debug\EventTracker.exe
+obj\Debug\EventTracker.xml
+obj\Debug\EventTracker.pdb

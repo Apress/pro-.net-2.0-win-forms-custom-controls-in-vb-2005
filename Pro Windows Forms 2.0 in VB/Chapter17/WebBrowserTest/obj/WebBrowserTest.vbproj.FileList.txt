@@ -1,0 +1,16 @@
+bin\Debug\WebBrowserTest.exe
+bin\Debug\WebBrowserTest.pdb
+bin\Debug\WebBrowserTest.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WebBrowserTest.Menu.resources
+obj\Debug\WebBrowserTest.Resources.resources
+obj\Debug\WebBrowserTest.WebBrowserDynamicContent.resources
+obj\Debug\WebBrowserTest.vbproj.GenerateResource.Cache
+obj\Debug\WebBrowserTest.exe
+obj\Debug\WebBrowserTest.xml
+obj\Debug\WebBrowserTest.pdb
+obj\Debug\WebBrowserTest.WebBrowserRestricted.resources
+obj\Debug\WebBrowserTest.ExploreDOM.resources
+obj\Debug\WebBrowserTest.GetAllLinks.resources
+obj\Debug\WebBrowserTest.ScriptedMenu.resources
+obj\Debug\WebBrowserTest.ScriptedWindow.resources

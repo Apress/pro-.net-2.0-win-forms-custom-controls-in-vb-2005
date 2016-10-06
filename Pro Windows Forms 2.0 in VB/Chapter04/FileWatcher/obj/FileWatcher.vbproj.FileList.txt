@@ -1,0 +1,3 @@
+obj\Debug\FileWatcher.exe
+obj\Debug\FileWatcher.xml
+obj\Debug\FileWatcher.pdb

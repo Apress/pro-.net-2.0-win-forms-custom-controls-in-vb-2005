@@ -1,0 +1,10 @@
+bin\Debug\Sound.exe
+bin\Debug\Sound.pdb
+bin\Debug\Sound.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Sound.Resources.resources
+obj\Debug\Sound.Player.resources
+obj\Debug\Sound.vbproj.GenerateResource.Cache
+obj\Debug\Sound.exe
+obj\Debug\Sound.xml
+obj\Debug\Sound.pdb

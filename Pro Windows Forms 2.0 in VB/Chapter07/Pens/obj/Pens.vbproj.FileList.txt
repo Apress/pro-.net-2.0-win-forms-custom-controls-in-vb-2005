@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Pens.LineJoins.resources
+obj\Debug\Pens.Menu.resources
+obj\Debug\Pens.Resources.resources
+obj\Debug\Pens.PenAlignments.resources
+obj\Debug\Pens.PenCaps.resources
+obj\Debug\Pens.PenDashStyles.resources
+obj\Debug\Pens.vbproj.GenerateResource.Cache
+bin\Debug\Pens.exe
+bin\Debug\Pens.pdb
+bin\Debug\Pens.xml
+obj\Debug\Pens.exe
+obj\Debug\Pens.xml
+obj\Debug\Pens.pdb

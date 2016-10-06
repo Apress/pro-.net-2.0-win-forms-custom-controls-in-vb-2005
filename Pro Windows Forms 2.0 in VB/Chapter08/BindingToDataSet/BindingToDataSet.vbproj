@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2353A679-59C7-4CAE-89AB-985784A6D9B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BindingToDataSet.My.MyApplication</StartupObject>
+    <RootNamespace>BindingToDataSet</RootNamespace>
+    <AssemblyName>BindingToDataSet</AssemblyName>
+    <MyType>WindowsForms</MyType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BindingToDataSet.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BindingToDataSet.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BindToImage.Designer.vb">
+      <DependentUpon>BindToImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BindToImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditableBinding.Designer.vb">
+      <DependentUpon>EditableBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditableBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FilteredListBinding.Designer.vb">
+      <DependentUpon>FilteredListBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FilteredListBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GridBinding.Designer.vb">
+      <DependentUpon>GridBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GridBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LookupTable.Designer.vb">
+      <DependentUpon>LookupTable.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LookupTable.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasterDetails.Designer.vb">
+      <DependentUpon>MasterDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MasterDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MultipleControlBinding.Designer.vb">
+      <DependentUpon>MultipleControlBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultipleControlBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Program.vb" />
+    <Compile Include="SimpleListBinding.Designer.vb">
+      <DependentUpon>SimpleListBinding.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleListBinding.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StoreDB.vb" />
+    <Compile Include="Unsynchronized.Designer.vb">
+      <DependentUpon>Unsynchronized.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Unsynchronized.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Validation.Designer.vb">
+      <DependentUpon>Validation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Validation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BindToImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>BindToImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditableBinding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditableBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FilteredListBinding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FilteredListBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GridBinding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GridBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LookupTable.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LookupTable.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasterDetails.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MasterDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultipleControlBinding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MultipleControlBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleListBinding.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SimpleListBinding.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unsynchronized.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Unsynchronized.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Validation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Validation.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

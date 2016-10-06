@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\QuartzVideo.MoviePlayer.resources
+obj\Debug\QuartzVideo.Resources.resources
+obj\Debug\QuartzVideo.vbproj.GenerateResource.Cache
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\QuartzVideo.MoviePlayer.resources
+obj\Release\QuartzVideo.Resources.resources
+obj\Release\QuartzVideo.vbproj.GenerateResource.Cache
+bin\Debug\QuartzVideo.exe
+bin\Debug\QuartzVideo.pdb
+bin\Debug\QuartzVideo.xml
+bin\Debug\Interop.QuartzTypeLib.dll
+obj\Debug\QuartzVideo.exe
+obj\Debug\QuartzVideo.xml
+obj\Debug\QuartzVideo.pdb

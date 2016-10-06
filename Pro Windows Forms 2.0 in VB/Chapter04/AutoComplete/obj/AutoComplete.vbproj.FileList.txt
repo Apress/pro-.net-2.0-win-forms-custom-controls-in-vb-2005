@@ -1,0 +1,3 @@
+obj\Debug\AutoComplete.exe
+obj\Debug\AutoComplete.xml
+obj\Debug\AutoComplete.pdb

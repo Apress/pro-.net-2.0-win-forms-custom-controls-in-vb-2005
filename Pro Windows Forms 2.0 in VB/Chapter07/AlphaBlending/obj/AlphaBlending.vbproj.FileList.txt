@@ -1,0 +1,10 @@
+bin\Debug\AlphaBlending.exe
+bin\Debug\AlphaBlending.pdb
+bin\Debug\AlphaBlending.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AlphaBlending.Form1.resources
+obj\Debug\AlphaBlending.Resources.resources
+obj\Debug\AlphaBlending.vbproj.GenerateResource.Cache
+obj\Debug\AlphaBlending.exe
+obj\Debug\AlphaBlending.xml
+obj\Debug\AlphaBlending.pdb

@@ -1,0 +1,10 @@
+bin\Debug\DrawingShapes_NonCtrl.exe
+bin\Debug\DrawingShapes_NonCtrl.pdb
+bin\Debug\DrawingShapes_NonCtrl.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DrawingShapes_NonCtrl.Resources.resources
+obj\Debug\DrawingShapes_NonCtrl.vbproj.GenerateResource.Cache
+obj\Debug\DrawingShapes_NonCtrl.exe
+obj\Debug\DrawingShapes_NonCtrl.xml
+obj\Debug\DrawingShapes_NonCtrl.pdb
+obj\Debug\DrawingShapes_NonCtrl.DrawingSurface.resources

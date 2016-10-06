@@ -1,0 +1,12 @@
+bin\Debug\DynamicUI.exe.config
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DynamicUI.ButtonMaker.resources
+obj\Debug\DynamicUI.DynamicDBMenu.resources
+obj\Debug\DynamicUI.DynamicMenu.resources
+obj\Debug\DynamicUI.Menu.resources
+obj\Debug\DynamicUI.vbproj.GenerateResource.Cache
+bin\Debug\DynamicUI.exe
+bin\Debug\DynamicUI.pdb
+obj\Debug\DynamicUI.exe
+obj\Debug\DynamicUI.pdb
+obj\Debug\DynamicUI.Resources.resources

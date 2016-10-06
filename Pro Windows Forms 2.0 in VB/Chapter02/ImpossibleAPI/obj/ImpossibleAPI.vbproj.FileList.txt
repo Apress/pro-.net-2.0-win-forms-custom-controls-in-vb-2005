@@ -1,0 +1,3 @@
+obj\Debug\ImpossibleAPI.exe
+obj\Debug\ImpossibleAPI.xml
+obj\Debug\ImpossibleAPI.pdb

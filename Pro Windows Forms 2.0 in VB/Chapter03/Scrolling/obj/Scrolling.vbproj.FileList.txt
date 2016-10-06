@@ -1,0 +1,3 @@
+obj\Debug\Scrolling.exe
+obj\Debug\Scrolling.xml
+obj\Debug\Scrolling.pdb

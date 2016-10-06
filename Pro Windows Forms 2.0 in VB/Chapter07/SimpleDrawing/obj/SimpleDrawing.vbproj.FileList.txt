@@ -1,0 +1,14 @@
+bin\Debug\SimpleDrawing.exe
+bin\Debug\SimpleDrawing.pdb
+bin\Debug\SimpleDrawing.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SimpleDrawing.FlawedResizing.resources
+obj\Debug\SimpleDrawing.Menu.resources
+obj\Debug\SimpleDrawing.Resources.resources
+obj\Debug\SimpleDrawing.SimpleDraw.resources
+obj\Debug\SimpleDrawing.vbproj.GenerateResource.Cache
+obj\Debug\SimpleDrawing.exe
+obj\Debug\SimpleDrawing.xml
+obj\Debug\SimpleDrawing.pdb
+obj\Debug\SimpleDrawing.Smoothing.resources
+obj\Debug\SimpleDrawing.SmoothingText.resources

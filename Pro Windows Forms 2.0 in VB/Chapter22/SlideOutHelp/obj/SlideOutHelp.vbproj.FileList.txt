@@ -1,0 +1,10 @@
+bin\Debug\SlideOutHelp.exe
+bin\Debug\SlideOutHelp.pdb
+bin\Debug\SlideOutHelp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SlideOutHelp.Form1.resources
+obj\Debug\SlideOutHelp.Resources.resources
+obj\Debug\SlideOutHelp.vbproj.GenerateResource.Cache
+obj\Debug\SlideOutHelp.exe
+obj\Debug\SlideOutHelp.xml
+obj\Debug\SlideOutHelp.pdb

@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Transforms.Menu.resources
+obj\Debug\Transforms.Resources.resources
+obj\Debug\Transforms.TranslateTransform.resources
+obj\Debug\Transforms.vbproj.GenerateResource.Cache
+bin\Debug\Transforms.exe
+bin\Debug\Transforms.pdb
+bin\Debug\Transforms.xml
+obj\Debug\Transforms.exe
+obj\Debug\Transforms.xml
+obj\Debug\Transforms.pdb

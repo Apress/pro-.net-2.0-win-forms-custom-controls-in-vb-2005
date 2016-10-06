@@ -1,0 +1,10 @@
+obj\Debug\AnimatedCursor.exe
+obj\Debug\AnimatedCursor.xml
+obj\Debug\AnimatedCursor.pdb
+bin\Debug\AnimatedCursor.exe
+bin\Debug\AnimatedCursor.pdb
+bin\Debug\AnimatedCursor.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AnimatedCursor.Form1.resources
+obj\Debug\AnimatedCursor.Resources.resources
+obj\Debug\AnimatedCursor.vbproj.GenerateResource.Cache

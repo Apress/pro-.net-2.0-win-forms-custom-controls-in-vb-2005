@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProjectTreeHost", "ProjectTreeHost\ProjectTreeHost.vbproj", "{85FA207B-3993-4C10-B5B8-ABD1D531FEB0}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ProjectTreeControl", "ProjectTreeControl\ProjectTreeControl.vbproj", "{C249AF9B-0C2B-40F1-9F7C-925412CD5054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FA207B-3993-4C10-B5B8-ABD1D531FEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FA207B-3993-4C10-B5B8-ABD1D531FEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FA207B-3993-4C10-B5B8-ABD1D531FEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FA207B-3993-4C10-B5B8-ABD1D531FEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C249AF9B-0C2B-40F1-9F7C-925412CD5054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C249AF9B-0C2B-40F1-9F7C-925412CD5054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C249AF9B-0C2B-40F1-9F7C-925412CD5054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C249AF9B-0C2B-40F1-9F7C-925412CD5054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

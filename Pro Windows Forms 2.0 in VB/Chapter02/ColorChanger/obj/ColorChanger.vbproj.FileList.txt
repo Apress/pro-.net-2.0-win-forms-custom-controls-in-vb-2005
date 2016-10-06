@@ -1,0 +1,3 @@
+obj\Debug\ColorChanger.exe
+obj\Debug\ColorChanger.xml
+obj\Debug\ColorChanger.pdb

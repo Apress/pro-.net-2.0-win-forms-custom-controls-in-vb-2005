@@ -1,0 +1,14 @@
+bin\Debug\Brushes.exe
+bin\Debug\Brushes.pdb
+bin\Debug\Brushes.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BrushTest.HatchBrushes.resources
+obj\Debug\BrushTest.Menu.resources
+obj\Debug\BrushTest.Resources.resources
+obj\Debug\Brushes.vbproj.GenerateResource.Cache
+obj\Debug\Brushes.exe
+obj\Debug\Brushes.xml
+obj\Debug\Brushes.pdb
+obj\Debug\BrushTest.GradientBrushes.resources
+obj\Debug\BrushTest.PathGradient.resources
+obj\Debug\BrushTest.TextureBrushes.resources

@@ -1,0 +1,11 @@
+bin\Debug\MaskedTextBox.exe.config
+bin\Debug\MaskedTextBox.exe
+bin\Debug\MaskedTextBox.pdb
+bin\Debug\MaskedTextBox.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Microsoft.Samples.Windows.Forms.MaskedTextBox.MaskedTextBox.resources
+obj\Debug\Microsoft.Samples.Windows.Forms.MaskedTextBox.Resources.resources
+obj\Debug\MaskedTextBox.vbproj.GenerateResource.Cache
+obj\Debug\MaskedTextBox.exe
+obj\Debug\MaskedTextBox.xml
+obj\Debug\MaskedTextBox.pdb

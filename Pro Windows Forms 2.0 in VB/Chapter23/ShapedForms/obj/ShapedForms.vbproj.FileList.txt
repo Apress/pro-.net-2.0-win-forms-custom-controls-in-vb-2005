@@ -1,0 +1,14 @@
+bin\Debug\ShapedForms.exe
+bin\Debug\ShapedForms.pdb
+bin\Debug\ShapedForms.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ShapedForms.Menu.resources
+obj\Debug\ShapedForms.Resources.resources
+obj\Debug\ShapedForms.SimpleShapedForm.resources
+obj\Debug\ShapedForms.vbproj.GenerateResource.Cache
+obj\Debug\ShapedForms.exe
+obj\Debug\ShapedForms.xml
+obj\Debug\ShapedForms.pdb
+obj\Debug\ShapedForms.CompoundShapedForm.resources
+obj\Debug\ShapedForms.FormWithHoles.resources
+obj\Debug\ShapedForms.TransparencyKey.resources

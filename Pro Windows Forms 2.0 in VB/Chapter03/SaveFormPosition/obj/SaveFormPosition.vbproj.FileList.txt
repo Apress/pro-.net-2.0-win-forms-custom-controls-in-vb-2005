@@ -1,0 +1,3 @@
+obj\Debug\SaveFormPosition.exe
+obj\Debug\SaveFormPosition.xml
+obj\Debug\SaveFormPosition.pdb

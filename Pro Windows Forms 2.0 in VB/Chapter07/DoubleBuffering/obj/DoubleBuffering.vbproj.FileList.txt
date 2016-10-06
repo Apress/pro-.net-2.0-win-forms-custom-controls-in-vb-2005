@@ -1,0 +1,3 @@
+obj\Debug\DoubleBuffering.exe
+obj\Debug\DoubleBuffering.xml
+obj\Debug\DoubleBuffering.pdb

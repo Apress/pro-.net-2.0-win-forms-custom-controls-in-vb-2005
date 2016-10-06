@@ -1,0 +1,9 @@
+bin\Debug\MdiSynchronized.exe
+bin\Debug\MdiSynchronized.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MdiSynchronized.Child.resources
+obj\Debug\MdiSynchronized.Parent.resources
+obj\Debug\Resources.resources
+obj\Debug\MdiSynchronized.vbproj.GenerateResource.Cache
+obj\Debug\MdiSynchronized.exe
+obj\Debug\MdiSynchronized.pdb

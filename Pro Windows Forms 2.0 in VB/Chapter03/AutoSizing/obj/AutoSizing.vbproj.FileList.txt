@@ -1,0 +1,3 @@
+obj\Debug\AutoSizing.exe
+obj\Debug\AutoSizing.xml
+obj\Debug\AutoSizing.pdb

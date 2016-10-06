@@ -1,0 +1,201 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12349226-A8CC-4783-800D-91091304021C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>
+    </RootNamespace>
+    <AssemblyName>DataGridViewTest</AssemblyName>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AutoResize.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AutoResize.Designer.vb">
+      <DependentUpon>AutoResize.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Barebones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barebones.Designer.vb">
+      <DependentUpon>Barebones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BoundImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoundImage.Designer.vb">
+      <DependentUpon>BoundImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonColumn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ButtonColumn.Designer.vb">
+      <DependentUpon>ButtonColumn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChildForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChildForm.Designer.vb">
+      <DependentUpon>ChildForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CustomSorting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomSorting.Designer.vb">
+      <DependentUpon>CustomSorting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formatting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formatting.Designer.vb">
+      <DependentUpon>Formatting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ListColumn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListColumn.Designer.vb">
+      <DependentUpon>ListColumn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.designer.vb">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Program.vb" />
+    <Compile Include="Properties\AssemblyInfo.vb" />
+    <EmbeddedResource Include="AutoResize.resx">
+      <DependentUpon>AutoResize.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barebones.resx">
+      <DependentUpon>Barebones.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoundImage.resx">
+      <DependentUpon>BoundImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ButtonColumn.resx">
+      <DependentUpon>ButtonColumn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChildForm.resx">
+      <DependentUpon>ChildForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomSorting.resx">
+      <DependentUpon>CustomSorting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formatting.resx">
+      <DependentUpon>Formatting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListColumn.resx">
+      <DependentUpon>ListColumn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProportionateFill.resx">
+      <DependentUpon>ProportionateFill.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Selection.resx">
+      <DependentUpon>Selection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unbound.resx">
+      <DependentUpon>Unbound.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UnboundImage.resx">
+      <DependentUpon>UnboundImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ValidateErrors.resx">
+      <DependentUpon>ValidateErrors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wrapping.resx">
+      <DependentUpon>Wrapping.vb</DependentUpon>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProportionateFill.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProportionateFill.Designer.vb">
+      <DependentUpon>ProportionateFill.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Selection.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Selection.Designer.vb">
+      <DependentUpon>Selection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StoreDB.vb" />
+    <Compile Include="Unbound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unbound.Designer.vb">
+      <DependentUpon>Unbound.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UnboundImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UnboundImage.Designer.vb">
+      <DependentUpon>UnboundImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Utility.vb" />
+    <Compile Include="ValidateErrors.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ValidateErrors.Designer.vb">
+      <DependentUpon>ValidateErrors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Wrapping.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wrapping.Designer.vb">
+      <DependentUpon>Wrapping.vb</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+</Project>
